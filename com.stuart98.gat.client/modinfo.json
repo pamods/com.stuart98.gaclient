@@ -1,12 +1,15 @@
 {
   "author": "Stuart98",
-  "build": "89755",
+  "build": "94684",
   "category": [
     "Units",
     "Balance"
   ],
   "context": "client",
-  "date": "2016/05/23",
+  "date": "2016/05/31",
+  "dependencies": [
+    "com.stuart98.gatitans"
+  ],
   "description": "A complete rework of PA with a focus on strategy and unit composition, with new units, new balance, and a new experience.",
   "display_name": "Galactic Annihilation Titans Client v2.26",
   "enabled": true,
