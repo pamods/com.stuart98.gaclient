@@ -3,7 +3,8 @@
   "build": "94684",
   "category": [
     "Units",
-    "Balance"
+    "Balance",
+    "titans"
   ],
   "context": "client",
   "date": "2016/05/31",
@@ -14,9 +15,10 @@
   "display_name": "Galactic Annihilation Titans Client v2.26",
   "enabled": true,
   "forum": "https://forums.uberent.com/threads/soon.70525/",
+  "hidden": true,
   "icon": "http://i.imgur.com/g8m0AAg.png?1",
   "identifier": "com.stuart98.gat.client",
   "priority": 90,
   "signature": "(not yet implemented)",
-  "version": "2.26"
+  "version": "2.26.fixed"
 }
